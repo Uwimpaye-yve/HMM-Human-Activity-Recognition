@@ -26,10 +26,10 @@ To ensure academic integrity and verify authentic individual data acquisition, f
 
 | Activity | Verification Video Link
 
-| **Still** | [Video Link](https://youtu.be/mYUl41p2zH8)
-| **Standing** | [Video Link](https://youtu.be/mYUl41p2zH8)
-| **Walking** | [Video Link](https://youtu.be/mYUl41p2zH8)
-| **Jumping** | [Video Link](https://youtu.be/mYUl41p2zH8) 
+| **Still** | [Video Link](https://youtube.com/shorts/jdab_ihb6dA)
+| **Standing** | [Video Link](https://youtube.com/shorts/hF6j6BZJ1l0)
+| **Walking** | [Video Link](https://youtube.com/shorts/tP7lS637AFM)
+| **Jumping** | [Video Link](https://youtube.com/shorts/fWmKLqMak8w) 
 
 
 ---
