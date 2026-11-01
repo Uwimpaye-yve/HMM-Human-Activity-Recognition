@@ -26,10 +26,10 @@ To ensure academic integrity and verify authentic individual data acquisition, f
 
 | Activity | Verification Video Link
 
-| **Still** | [Video Link](https://youtu.be/mYUl41p2zH8)
-| **Standing** | [Video Link](https://youtu.be/mYUl41p2zH8)
-| **Walking** | [Video Link](https://youtu.be/mYUl41p2zH8)
-| **Jumping** | [Video Link](https://youtu.be/mYUl41p2zH8) 
+| **Still** | [Video Link](https://youtube.com/shorts/jdab_ihb6dA)
+| **Standing** | [Video Link](https://youtube.com/shorts/hF6j6BZJ1l0)
+| **Walking** | [Video Link](https://youtube.com/shorts/tP7lS637AFM)
+| **Jumping** | [Video Link](https://youtube.com/shorts/fWmKLqMak8w) 
 
 
 ---
@@ -96,20 +96,20 @@ Signals are partitioned into sliding windows ($W = 2.0\text{ s}$, $50\%$ overlap
 
 ```text
 Actual \ Predicted   Still (S0)   Stand (S1)   Walk (S2)   Jump (S3)
-Still (S0)               5            2            0           0
-Stand (S1)               1            6            0           0
+Still (S0)               7            0            0           0
+Stand (S1)               6            1            0           0
 Walk (S2)                0            0            8           0
-Jump (S3)                0            1            1           6
+Jump (S3)                0            0            0           8
 ```
 
 ### Classification Metrics
 
 | Activity State | Windows Tested | Sensitivity (Recall) | Specificity | State Accuracy |
 | :--- | :---: | :---: | :---: | :---: |
-| **Still** | 7 | **0.714** | 0.957 | **83.33%** |
-| **Standing** | 7 | **0.857** | 0.870 | **83.33%** |
-| **Walking** | 8 | **1.000** | 0.955 | **83.33%** |
-| **Jumping** | 8 | **0.750** | **1.000** | **83.33%** |
+| **Still** | 7 | **1.000** | 0.0.739 | **80.00%** |
+| **Standing** | 7 | **0.143** | 1.000 | **80.00%** |
+| **Walking** | 8 | **1.000** | 1.000 | **80.00%** |
+| **Jumping** | 8 | **1.000** | **1.000** | **80.00%** |
 
 #### Key Insights
 - **Walking (100% Sensitivity):** Zero false negatives; rhythmic harmonic peaks clearly distinct from static postures.
